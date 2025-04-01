@@ -5,9 +5,9 @@ export default function Document () {
  return (
   <Html lang="en">
    <Head>
-    <title>Good Read clone</title>
-    <meta name="description" content="Good Read Clone"/>
-    <meta name="application-name" content="Good Read"/>
+    <title>LitRwanda</title>
+    <meta name="description" content="LitRwanda"/>
+    <meta name="application-name" content="LitRwanda"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
    </Head>
    <body>
