@@ -7,7 +7,8 @@ import { gql, useMutation } from '@apollo/client'
 import toast, { Toaster } from 'react-hot-toast'
 import { useAuthToken } from '@/hooks/auth.hooks'
 
-// GraphQL mutation for signup
+// GraphQL
+
 const SignUpMutation = gql`
   mutation SignUpMutation(
     $name: String!
