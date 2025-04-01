@@ -1,21 +1,7 @@
-<<<<<<< HEAD
 # Book-app
+
 =======
-<h1 align="center">Welcome to good-read-clone 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/node-%3E%3D16.17.x-blue.svg" />
-  <img src="https://img.shields.io/badge/npm-%3E%3D8.15.x-blue.svg" />
-  <a href="https://github.com/mabc224/book-library-react-nextjs-graphql#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/mabc224/book-library-react-nextjs-graphql/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="https://github.com/mabc224/book-library-react-nextjs-graphql/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/mabc224/good-read-clone" />
-  </a>
-</p>
+<h1 align="center">Welcome to LitRwanda Application 👋</h1>
 
 > Book Library web application using Next.js 13 and GraphQL
 
@@ -80,20 +66,6 @@ for the notification feature.
 
 ## Author
 
-👤 **Arsalan Bilal**
+👤 **Bella Melissa Ineza**
 
-* Github: [@mabc224](https://github.com/mabc224)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/mabc224/book-library-react-nextjs-graphql/issues).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-## 📝 License
-
-Copyright © 2023 [Arsalan Bilal](https://github.com/mabc224).<br />
-This project is [MIT](https://github.com/mabc224/book-library-react-nextjs-graphql/blob/master/LICENSE) licensed.
->>>>>>> 16f22be (books app)
+* Github: [@belladev250](https://github.com/belladev250/Book-app)
