@@ -1,0 +1,70 @@
+{
+  "name": "good-read-clone",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Book Library web application using React, Next.js, Node.js, and GraphQL",
+  "author": "Arsalan Bilal",
+  "license": "MIT",
+  "homepage": "https://github.com/mabc224/book-library-react-nextjs-graphql#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabc224/book-library-react-nextjs-graphql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mabc224/book-library-react-nextjs-graphql/issues"
+  },
+  "scripts": {
+    "dev": "next dev -p 8888",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prisma:migrate:dev": "npx prisma migrate dev",
+    "prisma:migrate:dev:create": "npx prisma migrate dev --create-only",
+    "prisma:migrate:deploy": "npx prisma migrate deploy",
+    "prisma:generate": "npx prisma generate",
+    "prisma:studio": "npx prisma studio",
+    "prisma:reset": "npx prisma migrate reset"
+  },
+  "prisma": {
+    "seed": "node prisma/seed.js"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.7.10",
+    "@headlessui/react": "^1.7.13",
+    "@hookform/resolvers": "^3.0.0",
+    "@prisma/client": "^4.11.0",
+    "apollo-upload-client": "^17.0.0",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.7",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "graphql": "^16.6.0",
+    "graphql-middleware": "^6.1.33",
+    "graphql-scalars": "^1.21.2",
+    "graphql-shield": "^7.6.5",
+    "graphql-yoga": "^3.7.3",
+    "jose": "^4.13.1",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-cookie": "^4.1.1",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.8",
+    "react-hot-toast": "^2.4.0",
+    "react-intl": "^6.3.2",
+    "react-rating-stars-component": "^2.2.0",
+    "react-select": "^5.7.2",
+    "universal-cookie": "^4.0.4",
+    "yup": "^1.0.2"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "prisma": "^4.11.0",
+    "tailwindcss": "^3.2.7"
+  },
+  "engines": {
+    "node": ">=16.17.x",
+    "npm": ">=8.15.x"
+  }
+}
