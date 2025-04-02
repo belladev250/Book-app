@@ -1,17 +1,17 @@
 {
-  "name": "good-read-clone",
+  "name": "LitRwanda app",
   "version": "0.1.0",
   "private": true,
   "description": "Book Library web application using React, Next.js, Node.js, and GraphQL",
-  "author": "Arsalan Bilal",
+  "author": "Bella Melissa Ineza",
   "license": "MIT",
-  "homepage": "https://github.com/mabc224/book-library-react-nextjs-graphql#readme",
+  "homepage": "https://github.com/belladev250/book-library-react-nextjs-graphql#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mabc224/book-library-react-nextjs-graphql.git"
+    "url": "git+https://github.com/belladev250/book-library-react-nextjs-graphql.git"
   },
   "bugs": {
-    "url": "https://github.com/mabc224/book-library-react-nextjs-graphql/issues"
+    "url": "https://github.com/belladev250/book-library-react-nextjs-graphql/issues"
   },
   "scripts": {
     "dev": "next dev -p 8888",
